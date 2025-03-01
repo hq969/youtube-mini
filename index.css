@@ -1,0 +1,28 @@
+#videos{
+    width: 60%;
+    margin: 30px auto;
+}
+
+/* Div which contains individual image and details div */
+#parentDiv{
+    display: flex;
+    gap: 15px;
+}
+
+/* Div which contains view count and time */
+#viewTimeDiv{
+ display: flex;
+ gap: 15px;
+ margin-top: -23px;
+}
+
+
+/* Div which contains image */
+
+#imageDiv{
+    cursor: pointer;
+}
+
+.youtubeLogo{
+    cursor: pointer;
+}

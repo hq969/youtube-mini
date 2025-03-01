@@ -1,0 +1,63 @@
+#navbar{
+    height:80px ;
+    border-top: 0.5px solid gray;
+    border-bottom: 0.5px solid gray;
+    display: flex;
+    align-items: center;
+}
+
+#logoLinesDiv{
+    width: 150px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.youtubeLogo{
+    color: red;
+    font-size: 33px;
+}
+
+.youtubeMenuLogo{
+    font-size: 25px;
+    color: #606060;
+}
+
+#searchAudioDiv{
+    margin-left: 450px;
+}
+
+
+/* Div which conatins input and search logo div */
+#searchbarLogo{
+    display: flex;
+    border: 0.5px solid gray;
+    width: 500px;
+    height: 45px;
+}
+
+/* input tage */
+#query{
+    border: none;
+    width: 88%;
+    padding-left: 10px;
+}
+
+/* Div contains search logo */
+#searchLogoDiv{
+    border-left: 0.5px solid gray;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    background-color: rgb(241, 241, 241);
+    flex-grow: 1;
+}
+
+/* Search logo */
+.searchLogo{
+   text-align: center;
+   font-size: 30px;
+   color: gray;
+}

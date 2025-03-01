@@ -1,0 +1,16 @@
+
+#results{
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;    height: 700px;
+    background-color: aliceblue;
+}
+
+#results>iframe{
+    width: 99.81%;
+    height: 90%;
+}
+
+#results>h2{
+
+    margin-top: 15px;
+}
